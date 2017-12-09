@@ -27,7 +27,7 @@ input[type=password] {
 
 #loginForm {
     padding: 48px;
-    background-color: #F4F4F4;
+    background-color: #A2D4AB;
     position: absolute;
     border: 2px solid #373737;
     border-radius: 8px;
@@ -46,7 +46,7 @@ input[type=password] {
     border: 1px solid #373737;
     font-size: 20px;
     color: #373737;
-    background-color: #C0B283;
+    background-color: #5A5O50;
 }
 
 #error {
