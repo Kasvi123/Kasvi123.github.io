@@ -1,4 +1,5 @@
 
+
 * {
 	font-family: Verdana, serif;
 }
@@ -75,8 +76,7 @@ input[type=password] {
 }
 
 .active {
-    background-color: #F4F4F4;
-    color: #373737;
+    background-color: #ESEEC1;
 }
 
 header {
@@ -87,7 +87,7 @@ header {
 }
 
 #loginBackground {
-    background: url("wander.jpg") no-repeat center center fixed;
+    background: url("assets/univac0.jpg") no-repeat center center fixed;
     background-size: cover;
 }
 
