@@ -1,1 +1,1 @@
-Reclye IT
+Recycle IT
